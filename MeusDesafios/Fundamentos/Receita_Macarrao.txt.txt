@@ -1,0 +1,30 @@
+DESAFIO: Criar algoritimos baseados em receitas culinarias
+
+Procedimento: Nome da ação a ser executada (nome da variável)
+Descrição: Detalhes da maneira ao qual será executada o procedimento.
+
+_______________________________________________________________________________
+
+RECEITA DE MACARRÃO:
+
+PROCEDIMENTO:
+Quantidade de macarrão
+quantidade de água
+tempo de fervura água
+tempo de cozimento do macarrão
+
+Ingredientes:
+Macarrão
+Sal
+Água
+Oléo
+Molho de Tomate
+
+DESCRIÇÃO:
+Quantidade de Macarrão 300 gramas
+200 ml de água
+10 minutos a 150 graus
+8 minutos 150 graus
+
+_______________________________________________________________________________
+

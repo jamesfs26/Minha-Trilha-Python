@@ -1,0 +1,51 @@
+Separar as funções existentes de "saque", "deposito" e "extrato" em funções.
+Criar duas novas funções: (cliente) e cadastrar conta bancária.
+
+DESAFIO:
+Precisamos deixar nosso código mais modularizado, para isso vamos criar funções para as operações existentes: sacar, depositar e vizualizar extrato.
+Além disso, para a versão 2 do nosso sistema precisamos criar conta corrente (vincular com usúario).
+
+SEPARAÇÃO EM FUNÇÕES:
+Devemos criar funções para todas as operações do sistema.
+Para excercitar tudo o que aprendemos neste módulo, cada função vai ter uma regra na passagem de argumentos.
+O retorno e a forma como serão chamados, pode ser definida por você da forma que acha melhor.
+
+SAQUE:
+A função saque deve receber os argumentos apenas por nome (keyword only).
+Sugestão de argumentos: saldo, valor, extrato, limite, numero_saques, limite_saques.
+Sugestão de retorno: saldo e extrato.
+
+DEPÓSITO:
+A função deposito deve receber as funções por posição (positional only).
+Sugestão de argumentos: saldo, valor, extrato.
+Sugestão de retorno: saldo e extrato.
+
+EXTRATO:
+A função extrato deve receber os argumentos por posição e nome (posiional only e keyword only).
+Argumentos posicionais: saldo | Argumentos nomeados: extrato
+
+NOVAS FUNÇÕES:
+Precisamos criar duas funções: criar usuário e criar conta corrente.
+Fique a vontade para adicionar novas funções (ex: Listar contas)
+
+CRIAR USUÁRIO (CLIENTE):
+O programa deve armazenar os usuários em uma lista, um usuário é composto por: nome, data de nascimento, cpf, e endereço.
+O endereço é uma string com o formato: logradouro, nro - bairro - cidade/sigla do estado.
+Deve ser armazenado somente os números do CPF.
+Não podemos cadastrar 2 usuários com o mesmo CPF.
+
+CRIAR CONTA CORRENTE:
+O programa deve armazenar contas em uma lista, uma conta é composta por: agência, número da conta e usuário.
+O número da conta é sequencial, iniciando em 1. O número da agência é fixo: 0001.
+O usuário pode ter mais de uma conta, mas uma conta pertence a somente um usúario.
+
+DICAS:
+Para vincular um usuário a uma conta, filtre a lista de usuários buscando o número de CPF informado para cada usuário da lista.
+
+
+
+
+
+
+
+

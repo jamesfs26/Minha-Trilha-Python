@@ -1,0 +1,24 @@
+
+DESAFIO: Calcular a idade dos usurarios para tirar a carteira de Motorista
+
+Passos:
+Coletar Dados dos usuários
+(Nome: Idade: Data de Nascimento: Endereço: Possui Antecendetes Criminais: Teste Fisico e Mental:)
+Possui 16 anos ou superior = "Tem idade para dirigir - Possui menos de 16 anos = "Não tem idade para dirigir."
+Possui Endereço fixo? Sim = "Cumpre o 1º requisito de Segurança" - Não = "Não está apto a tirar a carteira."
+Possui Antecendetes Criminais? Sim = "Não cumpre o requisito de segurança" - não = "Cumpre o 2º requisito de segurança."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

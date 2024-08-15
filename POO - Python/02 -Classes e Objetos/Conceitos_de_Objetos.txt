@@ -1,0 +1,20 @@
+
+Conceitos de CLASSES e OBJETOS:
+
+"class" (palavra reservada - Criar uma classe) | "pass" (bloco vazio)
+"self" (referência para o objeto)
+Caracteristicas: Recebem o nome de "Atributos da Classe"
+Métodos: São funções dentro de uma Classe. Métodos = Comportamentos encapsulados em objetos
+Atributos = dados encapsulados em objetos
+Encapsulamento = Dados e Métodos são agrupados em objetos
+
+
+
+
+
+
+
+
+
+
+
